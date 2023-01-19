@@ -1,4 +1,4 @@
-# Sharma
+# Readme
 This is my future ready project
 <h1>DESTINE TRAVELS<h1>
 This project is designed for Lifestyle theme and fulfills all the requirements of a traveller or a tourist. <br>
